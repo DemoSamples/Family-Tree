@@ -1,0 +1,6 @@
+{
+  "name": "Kinship Archive - Interactive Family Tree & Ancestral Timeline",
+  "description": "Interactive genealogical tree visualization with ancestral lineage highlighting, biographical archival profiles, historical era timeline slider, and researcher collaboration history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
